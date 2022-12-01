@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div .login label {
+    margin: 100px;
+    text-align: center;
+    width: 2px;
+    height:2px;
+    
+}

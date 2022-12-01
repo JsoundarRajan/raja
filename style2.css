@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.login span {
+    margin: 100px;
+    text-align: center;
+    width: 20px;
+    height:20px;
+    
+    
+}
